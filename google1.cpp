@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-//going back to original commit
+//changed in github
 typedef struct Node{
     int val;
     struct Node* left;
